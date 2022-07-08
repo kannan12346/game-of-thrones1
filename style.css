@@ -1,0 +1,31 @@
+
+.wrapper{
+    background :url("https://wallpaperaccess.com/full/25489.jpg") no-repeat  center center / cover;
+    width: 100%;
+    display: block;
+    position: relative;
+    z-index: 1;
+
+}
+/* .wrapper:before{
+    position: absolute;
+    content: '';
+    background-image:linear-gradient(to right,black);
+    width:100%;
+    height:105%;
+    top:0;
+    left:0;
+    z-index: -2;
+} */
+.card{
+    background :url("") no-repeat  center center / cover;
+    width: 100%;
+    display: block;
+    position: relative;
+    z-index: 1;
+ 
+}
+.custom-tooltip{
+    color:white;
+
+}
